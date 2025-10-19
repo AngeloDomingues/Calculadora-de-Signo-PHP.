@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Elemento: Fogo. Características: Pioneirismo e impulso. Pontos Fortes: Liderança, coragem. Pontos Fracos: Impaciência, egoísmo. Compatibilidade: Fogo (Leão, Sagitário) e Ar.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Elemento: Terra. Características: Estabilidade e sensualidade. Pontos Fortes: Lealdade, paciência, dedicação. Pontos Fracos: Teimosia, possessividade. Compatibilidade: Terra (Virgem, Capricórnio) e Água.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Elemento: Ar. Características: Comunicação, intelecto e dualidade. Pontos Fortes: Versatilidade, inteligência. Pontos Fracos: Inconstância, superficialidade. Compatibilidade: Ar (Libra, Aquário) e Fogo.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Elemento: Água. Características: Sensibilidade e intuição. Pontos Fortes: Empatia, proteção familiar. Pontos Fracos: Carência, mau humor, vitimismo. Compatibilidade: Água (Escorpião, Peixes) e Terra.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Elemento: Fogo. Características: Liderança, orgulho e brilho. Pontos Fortes: Autoconfiança, generosidade. Pontos Fracos: Egocentrismo, drama, arrogância. Compatibilidade: Fogo (Áries, Sagitário) e Ar.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Elemento: Terra. Características: Análise, organização e perfeccionismo. Pontos Fortes: Praticidade, metodologia, utilidade. Pontos Fracos: Crítica excessiva, ceticismo. Compatibilidade: Terra (Touro, Capricórnio) e Água.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Elemento: Ar. Características: Equilíbrio, justiça e harmonia. Pontos Fortes: Diplomacia, sociabilidade, charme. Pontos Fracos: Indecisão, superficialidade. Compatibilidade: Ar (Gêmeos, Aquário) e Fogo.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Elemento: Água. Características: Intensidade, mistério e transformação. Pontos Fortes: Intuição, lealdade, determinação. Pontos Fracos: Ciúme, ressentimento, obsessão. Compatibilidade: Água (Câncer, Peixes) e Terra.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Elemento: Fogo. Características: Otimismo, aventura e liberdade. Pontos Fortes: Franqueza, entusiasmo, espírito explorador. Pontos Fracos: Impulsividade, exagero, falta de tato. Compatibilidade: Fogo (Áries, Leão) e Ar.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Elemento: Terra. Características: Ambição, disciplina e responsabilidade. Pontos Fortes: Persistência, foco, maturidade. Pontos Fracos: Rigidez, pessimismo, frieza emocional. Compatibilidade: Terra (Touro, Virgem) e Água.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Elemento: Ar. Características: Inovação, independência e humanitarismo. Pontos Fortes: Inteligência, visão futurista, racionalidade. Pontos Fracos: Rebeldia sem causa, distanciamento. Compatibilidade: Ar (Gêmeos, Libra) e Fogo.</descricao>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Elemento: Água. Características: Sensibilidade, empatia e intuição. Pontos Fortes: Compaixão, criatividade, gentileza. Pontos Fracos: Indecisão, escapismo, ilusão. Compatibilidade: Água (Câncer, Escorpião) e Terra.</descricao>
+    </signo>
+
+</signos>
